@@ -1,2 +1,0 @@
-(this["webpackJsonpTFT-frontend"]=this["webpackJsonpTFT-frontend"]||[]).push([[15],{697:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return o}));var r=t(12),s=(t(0),t(37)),c=t(174),o=function(){return Object(r.jsxs)(c.a,{children:[Object(r.jsx)(s.n,{as:"h1",size:"lg",color:"primary",mb:"50px",style:{textAlign:"center"},children:"Roadmap"}),Object(r.jsx)(s.n,{as:"h2",color:"secondary",mb:"50px",style:{textAlign:"center"},children:"The roadmap is coming soon"})]})}}}]);
-//# sourceMappingURL=15.4de1174b.chunk.js.map
